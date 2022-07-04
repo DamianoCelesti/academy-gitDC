@@ -1,0 +1,26 @@
+GIT
+
+controllo attraverso il quale tenere traccia con il passare del temo delle modifiche apportare al progetto.
+
+un progetto puuo eseere costtutito da un singolo file a piu file
+
+concettualmente equale a crearsi delle copie di backup di una cartella di system sul prorio pc
+
+controllo si versione crentallizato, abbiamo bisogno di un server centralizzato che funge da depository
+
+controllo di versione distribuito(afea) in questo caso abbiamo sia un server centralizzato che funge da depository dei progetti
+
+è possibile poi caricare commit locali sul repository remoto(push): a questo punto tali modifiche diventano visibili a tutti
+esempi: git mercurial.
+
+
+git è DVCS cioè sistema softaware per il controllo di versione
+
+git è architetturalmente molto piu efficente di altri strumenti di controllo di versione
+
+
+stati dei file di un progetto: commitati(memorizzati nel repository locale), modificati(modificati ma non commitati) e in stage
+
+
+
+
